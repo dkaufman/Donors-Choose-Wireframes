@@ -1,0 +1,17 @@
+.brand {
+  font-size: 200%;
+  color: blue;
+}
+
+.nav {
+  float: right;
+}
+
+.header {
+  border-bottom: 2px solid black;
+}
+
+.hero-unit {
+  width: 80%;
+  margin: auto;
+}
